@@ -1,22 +1,5 @@
 # 💫 Hello there!
->🖥️This Person<br/>
->  └💾Original Data Drive<br/>
->    └📁Personal Info<br/>
->      └📄Name: Harsh Patel<br/>
->      └📄Gender: Male<br/>
->      └📄Age: 20 years<br/>
->    └📁Education<br/>
->      └📄Bachelor of Engineer in Information Technology<br/>
->    └📁Interests<br/>
->      └📄Web Development<br/>
->      └📄Open Source<br/>
->      └📄Competitve Programming<br/>
->      └📄Problem Solving<br/>
->      └📄Gaming<br/>
->    └📁Socials(Check below)<br/>
->    └📁Tech Stack(Check below)
->
->> 🖥️ **This Person**<br/>
+> 🖥️ **This Person**<br/>
 > └ 💾 **Original Data Drive**<br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;└ 📁 **Personal Info**<br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📄 **Name**: Harsh Patel<br/>
@@ -30,8 +13,8 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📄 Competitive Programming<br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📄 Problem Solving<br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📄 Gaming<br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;└ 📁 [**Socials**](#-socials)<br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;└ 📁 [**Tech Stack**](#-tech-stack)
+> &nbsp;&nbsp;&nbsp;&nbsp;└ 📁 [**Socials**](#-socials){: .section-link}<br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;└ 📁 [**Tech Stack**](#-tech-stack){: .section-link}
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/854063317898100766) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/copedopecode) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/copedopecode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/search-harsh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/HarshPatel1100) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/copedopecode) 
@@ -51,3 +34,12 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=copedopecode&icon=10&color=1)](https://visitcount.itsvg.in)
+
+
+<style>
+.section-link {
+    text-decoration: none; 
+    color: #0366d6;
+    cursor: pointer;
+}
+</style>
