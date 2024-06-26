@@ -8,7 +8,7 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📄 **Gender**: Male<br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📄 **Age**: 20 years<br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;└ 📁 **Education**<br/>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📄 Bachelor of Engineering in Information Technology<br/>
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📄 Bachelor of Engineer in Information Technology<br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;└ 📁 **Interests**<br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📄 Web Development<br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ 📄 Open Source<br/>
