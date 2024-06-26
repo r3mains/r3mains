@@ -13,7 +13,7 @@
 >      └📄Competitve Programming<br/>
 >      └📄Problem Solving<br/>
 >      └📄Gaming<br/>
-v    └📁Socials(Check below)<br/>
+>    └📁Socials(Check below)<br/>
 >    └📁Tech Stack(Check below)
 
 # 🌐 Socials:
