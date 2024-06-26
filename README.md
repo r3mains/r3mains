@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 # 💫 Hello there!
 > 🖥️ **This Person**<br/>
 > └ 💾 **Original Data Drive**<br/>
@@ -34,12 +36,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=copedopecode&icon=10&color=1)](https://visitcount.itsvg.in)
-
-
-<style>
-.section-link {
-    text-decoration: none; 
-    color: #0366d6;
-    cursor: pointer;
-}
-</style>
