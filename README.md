@@ -1,19 +1,19 @@
 # 💫 Hello there!
->🖥️This Person
->  └💾Original Data Drive
->    └📁Personal Info
->      └📄Name: Harsh Patel
->      └📄Gender: Male
->      └📄Age: 20 years
->    └📁Education
->      └📄Bachelor of Engineer in Information Technology
->    └📁Interests
->      └📄Web Development
->      └📄Open Source
->      └📄Competitve Programming
->      └📄Problem Solving
->      └📄Gaming
-v    └📁Socials(Check below)
+>🖥️This Person<br/>
+>  └💾Original Data Drive<br/>
+>    └📁Personal Info<br/>
+>      └📄Name: Harsh Patel<br/>
+>      └📄Gender: Male<br/>
+>      └📄Age: 20 years<br/>
+>    └📁Education<br/>
+>      └📄Bachelor of Engineer in Information Technology<br/>
+>    └📁Interests<br/>
+>      └📄Web Development<br/>
+>      └📄Open Source<br/>
+>      └📄Competitve Programming<br/>
+>      └📄Problem Solving<br/>
+>      └📄Gaming<br/>
+v    └📁Socials(Check below)<br/>
 >    └📁Tech Stack(Check below)
 
 # 🌐 Socials:
