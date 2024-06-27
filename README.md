@@ -1,3 +1,5 @@
+[![MasterHead](https://res.cloudinary.com/djdegiywz/image/upload/v1719481920/Assets/duckduckgo.gif)](https://github.com/copedopecode/)
+
 # 💫 Hello there!
  🖥️ **This Person**<br/>
  └ 💾 **Original Data Drive**<br/>
