@@ -29,11 +29,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bot-remains&theme=dark&hide_border=true)
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=copedopecode&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bot-remains&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 # ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=copedopecode&icon=10&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=bot-remains&icon=10&color=1)](https://visitcount.itsvg.in)
