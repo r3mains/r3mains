@@ -1,4 +1,4 @@
-[![MasterHead](https://assets.shizuvoice.net/ARCHBTW.png)
+![MasterHead](https://assets.shizuvoice.net/ARCHBTW.png)
 
 # 💫 Hello there!
  🖥️ **This Person**<br/>
